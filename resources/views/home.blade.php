@@ -294,140 +294,11 @@
             <div class="container">
                 <div class="row">
                     <header class="text-center col-md-8 col-md-offset-2">
-                        <h2 class="section-title">We are skilled</h2>
+                        <h2 class="section-title">About Us</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse, maxime tempora quaerat
                             ratione iste. Nulla excepturi voluptatem error repellat tenetur facilis, veniam illum.</p>
+                            <button type="button" class="btn btn-primary">Read More</button>
                     </header>
-                </div>
-                <div class="section-content">
-                    <div class="row-space row-base row">
-                        <div class="col-space col-base col-md-6">
-                            <h4 class="section-title">Specialization</h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi quod inventore, quis
-                                adipisci, ex consectetur quo aut illum nobis error voluptate repellendus sint molestiae
-                                qui quisquam et suscipit reiciendis. Odit.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta praesentium consequuntur
-                                totam nemo, deserunt consequatur eaque blanditiis iste reprehenderit consectetur eveniet
-                                aperiam, nobis dicta illo nisi illum laboriosam ratione velit!</p>
-                        </div>
-                        <div class="col-space col-base col-md-6">
-                            <div class="skills">
-                                <div class="progress-bar-title">Design</div>
-                                <div class="progress">
-                                    <div class="progress-bar" data-width="60">
-                                        <span>80%</span>
-                                    </div>
-                                </div>
-                                <div class="progress-bar-title">Development</div>
-                                <div class="progress">
-                                    <div class="progress-bar" data-width="85">
-                                        <span>55%</span>
-                                    </div>
-                                </div>
-                                <div class="progress-bar-title">Code</div>
-                                <div class="progress">
-                                    <div class="progress-bar" data-width="75">
-                                        <span>75%</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <section class="team bg-light">
-            <div class="clearfix">
-                <div class="col-team col-sm-6 col-lg-3">
-                    <figure class="team-profile">
-                        <img alt="" src="{{ asset('home') }}/img/team/2/1-370x420.jpg">
-                        <figcaption class="team-caption">
-                            <div class="team-meta">
-                                <strong class="team-name">Jack Wilshere</strong>
-                                <span class="team-spec">CEO / Founder</span>
-                            </div>
-                            <ul class="team-social social-list">
-                                <li><a href="#" class="fa fa-facebook"></a></li>
-                                <li><a href="#" class="fa fa-twitter"></a></li>
-                                <li><a href="#" class="fa fa-linkedin"></a></li>
-                                <li><a href="#" class="fa fa-instagram"></a></li>
-                            </ul>
-                        </figcaption>
-                    </figure>
-                </div>
-                <div class="col-team  col-sm-6 col-lg-3">
-                    <figure class="team-profile">
-                        <img alt="" src="{{ asset('home') }}/img/team/2/2-370x420.jpg">
-                        <figcaption class="team-caption">
-                            <div class="team-meta">
-                                <strong class="team-name">Jack Wilshere</strong>
-                                <span class="team-spec">CEO / Founder</span>
-                            </div>
-                            <ul class="team-social social-list">
-                                <li><a href="#" class="fa fa-facebook"></a></li>
-                                <li><a href="#" class="fa fa-twitter"></a></li>
-                                <li><a href="#" class="fa fa-linkedin"></a></li>
-                                <li><a href="#" class="fa fa-instagram"></a></li>
-                            </ul>
-                        </figcaption>
-                    </figure>
-                </div>
-                <div class="col-team col-sm-6 col-lg-3">
-                    <figure class="team-profile">
-                        <img alt="" src="{{ asset('home') }}/img/team/2/3-370x420.jpg">
-                        <figcaption class="team-caption">
-                            <div class="team-meta">
-                                <strong class="team-name">Jack Wilshere</strong>
-                                <span class="team-spec">CEO / Founder</span>
-                            </div>
-                            <ul class="team-social social-list">
-                                <li><a href="#" class="fa fa-facebook"></a></li>
-                                <li><a href="#" class="fa fa-twitter"></a></li>
-                                <li><a href="#" class="fa fa-linkedin"></a></li>
-                                <li><a href="#" class="fa fa-instagram"></a></li>
-                            </ul>
-                        </figcaption>
-                    </figure>
-                </div>
-                <div class="col-team col-sm-6 col-lg-3">
-                    <figure class="team-profile">
-                        <img alt="" src="{{ asset('home') }}/img/team/2/4-370x420.jpg">
-                        <figcaption class="team-caption">
-                            <div class="team-meta">
-                                <strong class="team-name">Jack Wilshere</strong>
-                                <span class="team-spec">CEO / Founder</span>
-                            </div>
-                            <ul class="team-social social-list">
-                                <li><a href="#" class="fa fa-facebook"></a></li>
-                                <li><a href="#" class="fa fa-twitter"></a></li>
-                                <li><a href="#" class="fa fa-linkedin"></a></li>
-                                <li><a href="#" class="fa fa-instagram"></a></li>
-                            </ul>
-                        </figcaption>
-                    </figure>
-                </div>
-            </div>
-        </section>
-        <section class="features bg-dark text-muted section">
-            <div class="container">
-                <div class="row-base row">
-                    <div class="col-base col-feature col-sm-6 col-md-4">
-                        <h6 class="text-white">Web design</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut earum ducimus minima nesciunt,
-                            aperiam sequi impedit quis accusantium</p>
-                    </div>
-                    <div class="col-base col-feature col-sm-6 col-md-4">
-                        <h6 class="text-white">Development</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut earum ducimus minima nesciunt,
-                            aperiam sequi impedit quis accusantium</p>
-                    </div>
-                    <div class="clearfix visible-sm"></div>
-                    <div class="col-base col-feature col-sm-6 col-md-4">
-                        <h6 class="text-white">Coding</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut earum ducimus minima nesciunt,
-                            aperiam sequi impedit quis accusantium</p>
-                    </div>
                 </div>
             </div>
         </section>
@@ -436,7 +307,7 @@
             <div class="container">
                 <div class="row">
                     <header class="text-center col-md-8 col-md-offset-2">
-                        <h2 class="section-title">Recent works</h2>
+                        <h2 class="section-title">Our Products</h2>
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse, maxime tempora quaerat
                             ratione iste. Nulla excepturi voluptatem error repellat tenetur facilis, veniam illum.</p>
                     </header>
@@ -546,7 +417,111 @@
             </div>
         </section>
 
-        <section class="clients section pb-sm">
+        {{-- <section class="team bg-light">
+            <div class="clearfix">
+                <div class="col-team col-sm-6 col-lg-3">
+                    <figure class="team-profile">
+                        <img alt="" src="{{ asset('home') }}/img/team/2/1-370x420.jpg">
+                        <figcaption class="team-caption">
+                            <div class="team-meta">
+                                <strong class="team-name">Jack Wilshere</strong>
+                                <span class="team-spec">CEO / Founder</span>
+                            </div>
+                            <ul class="team-social social-list">
+                                <li><a href="#" class="fa fa-facebook"></a></li>
+                                <li><a href="#" class="fa fa-twitter"></a></li>
+                                <li><a href="#" class="fa fa-linkedin"></a></li>
+                                <li><a href="#" class="fa fa-instagram"></a></li>
+                            </ul>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-team  col-sm-6 col-lg-3">
+                    <figure class="team-profile">
+                        <img alt="" src="{{ asset('home') }}/img/team/2/2-370x420.jpg">
+                        <figcaption class="team-caption">
+                            <div class="team-meta">
+                                <strong class="team-name">Jack Wilshere</strong>
+                                <span class="team-spec">CEO / Founder</span>
+                            </div>
+                            <ul class="team-social social-list">
+                                <li><a href="#" class="fa fa-facebook"></a></li>
+                                <li><a href="#" class="fa fa-twitter"></a></li>
+                                <li><a href="#" class="fa fa-linkedin"></a></li>
+                                <li><a href="#" class="fa fa-instagram"></a></li>
+                            </ul>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-team col-sm-6 col-lg-3">
+                    <figure class="team-profile">
+                        <img alt="" src="{{ asset('home') }}/img/team/2/3-370x420.jpg">
+                        <figcaption class="team-caption">
+                            <div class="team-meta">
+                                <strong class="team-name">Jack Wilshere</strong>
+                                <span class="team-spec">CEO / Founder</span>
+                            </div>
+                            <ul class="team-social social-list">
+                                <li><a href="#" class="fa fa-facebook"></a></li>
+                                <li><a href="#" class="fa fa-twitter"></a></li>
+                                <li><a href="#" class="fa fa-linkedin"></a></li>
+                                <li><a href="#" class="fa fa-instagram"></a></li>
+                            </ul>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-team col-sm-6 col-lg-3">
+                    <figure class="team-profile">
+                        <img alt="" src="{{ asset('home') }}/img/team/2/4-370x420.jpg">
+                        <figcaption class="team-caption">
+                            <div class="team-meta">
+                                <strong class="team-name">Jack Wilshere</strong>
+                                <span class="team-spec">CEO / Founder</span>
+                            </div>
+                            <ul class="team-social social-list">
+                                <li><a href="#" class="fa fa-facebook"></a></li>
+                                <li><a href="#" class="fa fa-twitter"></a></li>
+                                <li><a href="#" class="fa fa-linkedin"></a></li>
+                                <li><a href="#" class="fa fa-instagram"></a></li>
+                            </ul>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+        </section> --}}
+
+        <section class="features bg-dark text-muted section">
+
+            <div class="container">
+                <div class="row">
+                    <header class="text-center col-md-8 col-md-offset-2">
+                        <h2 class="section-title text-white">Our Company Values</h2>
+                    </header>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row-base row">
+                    <div class="col-base col-feature col-sm-6 col-md-4">
+                        <h6 class="text-white">Web design</h6>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut earum ducimus minima nesciunt,
+                            aperiam sequi impedit quis accusantium</p>
+                    </div>
+                    <div class="col-base col-feature col-sm-6 col-md-4">
+                        <h6 class="text-white">Development</h6>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut earum ducimus minima nesciunt,
+                            aperiam sequi impedit quis accusantium</p>
+                    </div>
+                    <div class="clearfix visible-sm"></div>
+                    <div class="col-base col-feature col-sm-6 col-md-4">
+                        <h6 class="text-white">Coding</h6>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut earum ducimus minima nesciunt,
+                            aperiam sequi impedit quis accusantium</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        {{-- <section class="clients section pb-sm">
             <div class="container">
                 <div class="row">
                     <header class="text-center col-md-8 col-md-offset-2">
@@ -660,7 +635,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> --}}
 
         <section class="partners section-sm">
             <div class="container">
@@ -681,13 +656,6 @@
                         <img alt="" src="{{ asset('home') }}/img/partners/5.png">
                     </div>
                 </div>
-            </div>
-        </section>
-
-        <section class="promo bg-primary section-sm">
-            <div class="container rel-1">
-                <h2 class="promo-title text-white">Hey! Build Your Own <i>Website Now!</i></h2>
-                <a href="#request" data-toggle="modal" class="btn btn-b-white">Get start now</a>
             </div>
         </section>
 
@@ -715,29 +683,14 @@
                         </ul>
                     </div>
                     <div class="col-base col-space col-sm-6 col-md-4">
-                        <div class="widget_recent_entries">
-                            <strong class="footer-title">Recent Posts</strong>
-                            <ul>
-                                <li>
-                                    <div class="media-left"><a href="#"><img alt=""
-                                                src="{{ asset('home') }}/img/blog/1-70x70.jpg"></a></div>
-                                    <div class="media-right">
-                                        <a href="#" class="recet-entries-title">Don’t miss Top Things To Do In San
-                                            Francisco</a>
-                                        <div class="recent-entries-time">12/09/2016 </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="media-left"><a href="#"><img alt=""
-                                                src="{{ asset('home') }}/img/blog/2-70x70.jpg"></a></div>
-                                    <div class="media-right">
-                                        <a href="#" class="recet-entries-title">Don’t miss Top Things To Do In San
-                                            Francisco</a>
-                                        <div class="recent-entries-time">12/09/2016 </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
+                        <strong class="footer-title">Links</strong>
+                        <ul class="nav-bottom">
+                            <li><a href="#">Home</a></li>
+                            <li><a href="#">Product</a></li>
+                            <li><a href="#">Portfolio</a></li>
+                            <li><a href="#">Blog</a></li>
+                            <li><a href="#">Contacts</a></li>
+                        </ul>
                     </div>
                     <div class="col-subscribe col-base col-space col-sm-6 col-md-3">
                         <strong class="footer-title">Newsletter</strong>
