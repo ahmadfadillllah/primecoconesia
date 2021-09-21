@@ -54,7 +54,7 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="#">Pages</a>
+                        <a href="#">Product</a>
                         <ul>
                             <li>
                                 <a href="about.html">About</a>
@@ -69,7 +69,7 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="blog-list1.html">Blog</a>
+                        <a href="blog-list1.html">Gallery</a>
                         <ul>
                             <li>
                                 <a href="blog-list1.html">Blog list</a>
@@ -81,17 +81,6 @@
                                 </ul>
                             </li>
                             <li><a href="blog-post.html">Blog details</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="portfolio.html">Portfolio</a>
-                        <ul>
-                            <li><a href="portfolio.html">Portfolio 1</a></li>
-                            <li><a href="portfolio2.html">Portfolio 2</a></li>
-                            <li><a href="portfolio3.html">Portfolio 3</a></li>
-                            <li><a href="portfolio4.html">Portfolio 4</a></li>
-                            <li><a href="portfolio-details.html">Portfolio Details 1</a></li>
-                            <li><a href="portfolio-details2.html">Portfolio Details 2</a></li>
                         </ul>
                     </li>
                     <li>
@@ -118,7 +107,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="#">Pages</a>
+                            <a href="#">Product</a>
                             <ul>
                                 <li>
                                     <a href="about.html">About</a>
@@ -133,7 +122,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="blog-list1.html">Blog</a>
+                            <a href="blog-list1.html">Gallery</a>
                             <ul>
                                 <li>
                                     <a href="blog-list1.html">Blog list</a>
@@ -145,17 +134,6 @@
                                     </ul>
                                 </li>
                                 <li><a href="blog-post.html">Blog details</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="portfolio.html">Portfolio</a>
-                            <ul>
-                                <li><a href="portfolio.html">Portfolio 1</a></li>
-                                <li><a href="portfolio2.html">Portfolio 2</a></li>
-                                <li><a href="portfolio3.html">Portfolio 3</a></li>
-                                <li><a href="portfolio4.html">Portfolio 4</a></li>
-                                <li><a href="portfolio-details.html">Portfolio Details 1</a></li>
-                                <li><a href="portfolio-details2.html">Portfolio Details 2</a></li>
                             </ul>
                         </li>
                         <li>
@@ -200,8 +178,8 @@
                             data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
                             data-mask_in="x:50px;y:0px;s:inherit;e:inherit;"
                             data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500"
-                            data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05">Awesome
-                            <i>Agency</i>
+                            data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05"><i>Welcome to
+                            Primecoconesia</i>
                         </div>
 
                         <div class="slider-text tp-caption" data-x="['center','center','center','center']"
@@ -730,7 +708,7 @@
                         <strong class="footer-title">Links</strong>
                         <ul class="nav-bottom">
                             <li><a href="#">Home</a></li>
-                            <li><a href="#">Pages</a></li>
+                            <li><a href="#">Product</a></li>
                             <li><a href="#">Portfolio</a></li>
                             <li><a href="#">Blog</a></li>
                             <li><a href="#">Contacts</a></li>
@@ -843,6 +821,8 @@
             </div>
         </div>
     </div>
+
+
 
     <script data-cfasync="false"
         src="{{ asset('home') }}/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
