@@ -161,11 +161,11 @@
             <div id="rev_slider" class="rev_slider fullscreenbanner">
                 <ul>
 
-                    <li data-transition='slotzoom-horizontal' data-slotamount='default' data-masterspeed="1500"
+                    <li data-transition='slotzoom-horizontal' data-slotamount='default' data-masterspeed="2500"
                         data-fsmasterspeed="1000">
 
-                        <img src="{{ asset('home') }}/img/slider/piqsels.com-id-sveae.jpg"
-                            data-lazyload="{{ asset('home') }}/img/slider/piqsels.com-id-sveae.jpg" data-bgparallax="7" alt=""
+                        <img src="{{ asset('home') }}/img/slider/2.jpg"
+                            data-lazyload="{{ asset('home') }}/img/slider/2.jpg" data-bgparallax="7" alt=""
                             data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
                             class="rev-slidebg">
 
@@ -189,7 +189,7 @@
                             data-transform_idle="o:1;"
                             data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1200;e:Power1.easeInOut;"
                             data-transform_out="opacity:0;s:1000;s:1000;"
-                            data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-start="1500" data-splitin="none"
+                            data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-start="2500" data-splitin="none"
                             data-splitout="none"><span style="opacity:0.9">We receive result combining marketing,<br> a
                                 creative and industry experience.</span>
                         </div>
@@ -200,9 +200,9 @@
                             data-transform_idle="o:1;"
                             data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;"
                             data-style_hover="c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);"
-                            data-transform_in="y:50px;opacity:0;s:1500;e:Power4.easeInOut;"
+                            data-transform_in="y:50px;opacity:0;s:2500;e:Power4.easeInOut;"
                             data-transform_out="y:50px;s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-                            data-mask_out="x:inherit;y:inherit;" data-start="1500" data-splitin="on"
+                            data-mask_out="x:inherit;y:inherit;" data-start="2500" data-splitin="on"
                             data-splitout="none" data-responsive_offset="on"><a href="#request" class="btn"
                                 data-toggle="modal">Get start now</a>
                         </div>
@@ -212,9 +212,9 @@
                             data-transform_idle="o:1;"
                             data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;"
                             data-style_hover="c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);"
-                            data-transform_in="y:50px;opacity:0;s:1500;e:Power4.easeInOut;"
+                            data-transform_in="y:50px;opacity:0;s:2500;e:Power4.easeInOut;"
                             data-transform_out="y:50px;s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-                            data-mask_out="x:inherit;y:inherit;" data-start="1500" data-splitin="on"
+                            data-mask_out="x:inherit;y:inherit;" data-start="2500" data-splitin="on"
                             data-splitout="none" data-responsive_offset="on"><a
                                 href="https://www.youtube.com/watch?v=ANwf8AE3_d0"
                                 class="icon-video-play white js-video-play"></a>
@@ -222,11 +222,11 @@
                         </div>
                     </li>
 
-                    <li data-transition='slotzoom-horizontal' data-slotamount='default' data-masterspeed="1500"
+                    <li data-transition='slotzoom-horizontal' data-slotamount='default' data-masterspeed="2500"
                         data-fsmasterspeed="1000">
 
-                        <img src="{{ asset('home') }}/img/slider/agency2.jpg"
-                            data-lazyload="{{ asset('home') }}/img/slider/agency2.jpg" data-bgparallax="7" alt=""
+                        <img src="{{ asset('home') }}/img/slider/1.jpg"
+                            data-lazyload="{{ asset('home') }}/img/slider/1.jpg" data-bgparallax="7" alt=""
                             data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"
                             class="rev-slidebg">
 
@@ -243,14 +243,14 @@
                             <i>Primecoconesia</i>
                         </div>
 
-                        <div class="slider-text tp-caption" data-x="['center','center','center','center']"
+                        <div class="slider-text tp-caption" style="color: black" data-x="['center','center','center','center']"
                             data-hoffset="['0']" data-y="['middle','middle','middle','middle']" data-voffset="['20']"
                             data-textAlign="['center','center','center','center']" data-fontsize="['18']"
                             data-lineheight="['32']" data-whitespace="normal" data-width="['900','700','600','500']"
                             data-transform_idle="o:1;"
                             data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1200;e:Power1.easeInOut;"
                             data-transform_out="opacity:0;s:1000;s:1000;"
-                            data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-start="1500" data-splitin="none"
+                            data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-start="2500" data-splitin="none"
                             data-splitout="none"><span style="opacity:0.9">We receive result combining marketing,<br> a
                                 creative and industry experience.</span>
                         </div>
@@ -261,9 +261,9 @@
                             data-transform_idle="o:1;"
                             data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;"
                             data-style_hover="c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);"
-                            data-transform_in="y:50px;opacity:0;s:1500;e:Power4.easeInOut;"
+                            data-transform_in="y:50px;opacity:0;s:2500;e:Power4.easeInOut;"
                             data-transform_out="y:50px;s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-                            data-mask_out="x:inherit;y:inherit;" data-start="1500" data-splitin="on"
+                            data-mask_out="x:inherit;y:inherit;" data-start="2500" data-splitin="on"
                             data-splitout="none" data-responsive_offset="on"><a href="#request" class="btn"
                                 data-toggle="modal">Get start now</a>
                         </div>
@@ -273,9 +273,9 @@
                             data-transform_idle="o:1;"
                             data-transform_hover="o:1;rX:0;rY:0;rZ:0;z:0;s:300;e:Power1.easeInOut;"
                             data-style_hover="c:rgba(255, 255, 255, 1.00);bc:rgba(255, 255, 255, 1.00);"
-                            data-transform_in="y:50px;opacity:0;s:1500;e:Power4.easeInOut;"
+                            data-transform_in="y:50px;opacity:0;s:2500;e:Power4.easeInOut;"
                             data-transform_out="y:50px;s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
-                            data-mask_out="x:inherit;y:inherit;" data-start="1500" data-splitin="on"
+                            data-mask_out="x:inherit;y:inherit;" data-start="2500" data-splitin="on"
                             data-splitout="none" data-responsive_offset="on"><a
                                 href="https://www.youtube.com/watch?v=ANwf8AE3_d0"
                                 class="icon-video-play white js-video-play"></a>
