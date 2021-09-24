@@ -179,7 +179,7 @@
                             data-mask_in="x:50px;y:0px;s:inherit;e:inherit;"
                             data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500"
                             data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05"><i>Welcome to
-                            Primecoconesia</i>
+                                Primecoconesia</i>
                         </div>
 
                         <div class="slider-text tp-caption" data-x="['center','center','center','center']"
@@ -190,8 +190,9 @@
                             data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1200;e:Power1.easeInOut;"
                             data-transform_out="opacity:0;s:1000;s:1000;"
                             data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-start="2500" data-splitin="none"
-                            data-splitout="none"><span style="opacity:0.9">We receive result combining marketing,<br> a
-                                creative and industry experience.</span>
+                            data-splitout="none"><span style="opacity:0.9">PT. Primecoconesia merupakan perusahaan yang
+                                bergerak di indsutri pertanian dan fokus pada komuditas kelapa, khususnya produksi
+                                minyak kelapa berkualitas tinggi dan berbagai produk turunan kelapa.</span>
                         </div>
 
                         <div class="tp-caption" data-x="['center','center','center','center']" data-hoffset="['-110']"
@@ -243,16 +244,18 @@
                             <i>Primecoconesia</i>
                         </div>
 
-                        <div class="slider-text tp-caption" style="color: black" data-x="['center','center','center','center']"
-                            data-hoffset="['0']" data-y="['middle','middle','middle','middle']" data-voffset="['20']"
+                        <div class="slider-text tp-caption" style="color: black"
+                            data-x="['center','center','center','center']" data-hoffset="['0']"
+                            data-y="['middle','middle','middle','middle']" data-voffset="['20']"
                             data-textAlign="['center','center','center','center']" data-fontsize="['18']"
                             data-lineheight="['32']" data-whitespace="normal" data-width="['900','700','600','500']"
                             data-transform_idle="o:1;"
                             data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1200;e:Power1.easeInOut;"
                             data-transform_out="opacity:0;s:1000;s:1000;"
                             data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-start="2500" data-splitin="none"
-                            data-splitout="none"><span style="opacity:0.9">We receive result combining marketing,<br> a
-                                creative and industry experience.</span>
+                            data-splitout="none"><span style="opacity:0.9">Perusahaan kami membuka dan menerima peluang
+                                kerjasama dengan perusahan lain, baik nasional maupun internasional yang bergerak dan
+                                fokus pada bidang yang sesuai dengan perusahaan kami.</span>
                         </div>
 
                         <div class="tp-caption" data-x="['center','center','center','center']" data-hoffset="['-110']"
@@ -295,9 +298,12 @@
                 <div class="row">
                     <header class="text-center col-md-8 col-md-offset-2">
                         <h2 class="section-title">About Us</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse, maxime tempora quaerat
-                            ratione iste. Nulla excepturi voluptatem error repellat tenetur facilis, veniam illum.</p>
-                            <button type="button" class="btn btn-primary">Read More</button>
+                        <p>PT. Primecoconesia adalah perusahaan yang bergerak di bidang pengolahan kelapa yang fokus
+                            pada produksi minyak kelapa berkualitas tinggi. Tidak hanya menjadi produsen minyak kelapa
+                            berkualitas tinggi PT. Primecoconesia juga menjadi produsen berbagai produk turunan kelapa
+                            berkualitas tinggi, seperti: Kapuk, Briket, Cocopeat, Cocofiber dll.</p>
+                        <a href="{{ route('about') }}"><button type="button" class="btn btn-primary">Read
+                                More</button></a>
                     </header>
                 </div>
             </div>
@@ -308,8 +314,6 @@
                 <div class="row">
                     <header class="text-center col-md-8 col-md-offset-2">
                         <h2 class="section-title">Our Products</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse, maxime tempora quaerat
-                            ratione iste. Nulla excepturi voluptatem error repellat tenetur facilis, veniam illum.</p>
                     </header>
                 </div>
             </div>
@@ -422,304 +426,245 @@
                 <div class="col-team col-sm-6 col-lg-3">
                     <figure class="team-profile">
                         <img alt="" src="{{ asset('home') }}/img/team/2/1-370x420.jpg">
-                        <figcaption class="team-caption">
-                            <div class="team-meta">
-                                <strong class="team-name">Jack Wilshere</strong>
-                                <span class="team-spec">CEO / Founder</span>
-                            </div>
-                            <ul class="team-social social-list">
-                                <li><a href="#" class="fa fa-facebook"></a></li>
-                                <li><a href="#" class="fa fa-twitter"></a></li>
-                                <li><a href="#" class="fa fa-linkedin"></a></li>
-                                <li><a href="#" class="fa fa-instagram"></a></li>
-                            </ul>
-                        </figcaption>
-                    </figure>
-                </div>
-                <div class="col-team  col-sm-6 col-lg-3">
-                    <figure class="team-profile">
-                        <img alt="" src="{{ asset('home') }}/img/team/2/2-370x420.jpg">
-                        <figcaption class="team-caption">
-                            <div class="team-meta">
-                                <strong class="team-name">Jack Wilshere</strong>
-                                <span class="team-spec">CEO / Founder</span>
-                            </div>
-                            <ul class="team-social social-list">
-                                <li><a href="#" class="fa fa-facebook"></a></li>
-                                <li><a href="#" class="fa fa-twitter"></a></li>
-                                <li><a href="#" class="fa fa-linkedin"></a></li>
-                                <li><a href="#" class="fa fa-instagram"></a></li>
-                            </ul>
-                        </figcaption>
-                    </figure>
-                </div>
-                <div class="col-team col-sm-6 col-lg-3">
-                    <figure class="team-profile">
-                        <img alt="" src="{{ asset('home') }}/img/team/2/3-370x420.jpg">
-                        <figcaption class="team-caption">
-                            <div class="team-meta">
-                                <strong class="team-name">Jack Wilshere</strong>
-                                <span class="team-spec">CEO / Founder</span>
-                            </div>
-                            <ul class="team-social social-list">
-                                <li><a href="#" class="fa fa-facebook"></a></li>
-                                <li><a href="#" class="fa fa-twitter"></a></li>
-                                <li><a href="#" class="fa fa-linkedin"></a></li>
-                                <li><a href="#" class="fa fa-instagram"></a></li>
-                            </ul>
-                        </figcaption>
-                    </figure>
-                </div>
-                <div class="col-team col-sm-6 col-lg-3">
-                    <figure class="team-profile">
-                        <img alt="" src="{{ asset('home') }}/img/team/2/4-370x420.jpg">
-                        <figcaption class="team-caption">
-                            <div class="team-meta">
-                                <strong class="team-name">Jack Wilshere</strong>
-                                <span class="team-spec">CEO / Founder</span>
-                            </div>
-                            <ul class="team-social social-list">
-                                <li><a href="#" class="fa fa-facebook"></a></li>
-                                <li><a href="#" class="fa fa-twitter"></a></li>
-                                <li><a href="#" class="fa fa-linkedin"></a></li>
-                                <li><a href="#" class="fa fa-instagram"></a></li>
-                            </ul>
-                        </figcaption>
-                    </figure>
-                </div>
+        <figcaption class="team-caption">
+            <div class="team-meta">
+                <strong class="team-name">Jack Wilshere</strong>
+                <span class="team-spec">CEO / Founder</span>
             </div>
-        </section> --}}
+            <ul class="team-social social-list">
+                <li><a href="#" class="fa fa-facebook"></a></li>
+                <li><a href="#" class="fa fa-twitter"></a></li>
+                <li><a href="#" class="fa fa-linkedin"></a></li>
+                <li><a href="#" class="fa fa-instagram"></a></li>
+            </ul>
+        </figcaption>
+        </figure>
+    </div>
+    <div class="col-team  col-sm-6 col-lg-3">
+        <figure class="team-profile">
+            <img alt="" src="{{ asset('home') }}/img/team/2/2-370x420.jpg">
+            <figcaption class="team-caption">
+                <div class="team-meta">
+                    <strong class="team-name">Jack Wilshere</strong>
+                    <span class="team-spec">CEO / Founder</span>
+                </div>
+                <ul class="team-social social-list">
+                    <li><a href="#" class="fa fa-facebook"></a></li>
+                    <li><a href="#" class="fa fa-twitter"></a></li>
+                    <li><a href="#" class="fa fa-linkedin"></a></li>
+                    <li><a href="#" class="fa fa-instagram"></a></li>
+                </ul>
+            </figcaption>
+        </figure>
+    </div>
+    <div class="col-team col-sm-6 col-lg-3">
+        <figure class="team-profile">
+            <img alt="" src="{{ asset('home') }}/img/team/2/3-370x420.jpg">
+            <figcaption class="team-caption">
+                <div class="team-meta">
+                    <strong class="team-name">Jack Wilshere</strong>
+                    <span class="team-spec">CEO / Founder</span>
+                </div>
+                <ul class="team-social social-list">
+                    <li><a href="#" class="fa fa-facebook"></a></li>
+                    <li><a href="#" class="fa fa-twitter"></a></li>
+                    <li><a href="#" class="fa fa-linkedin"></a></li>
+                    <li><a href="#" class="fa fa-instagram"></a></li>
+                </ul>
+            </figcaption>
+        </figure>
+    </div>
+    <div class="col-team col-sm-6 col-lg-3">
+        <figure class="team-profile">
+            <img alt="" src="{{ asset('home') }}/img/team/2/4-370x420.jpg">
+            <figcaption class="team-caption">
+                <div class="team-meta">
+                    <strong class="team-name">Jack Wilshere</strong>
+                    <span class="team-spec">CEO / Founder</span>
+                </div>
+                <ul class="team-social social-list">
+                    <li><a href="#" class="fa fa-facebook"></a></li>
+                    <li><a href="#" class="fa fa-twitter"></a></li>
+                    <li><a href="#" class="fa fa-linkedin"></a></li>
+                    <li><a href="#" class="fa fa-instagram"></a></li>
+                </ul>
+            </figcaption>
+        </figure>
+    </div>
+    </div>
+    </section> --}}
 
-        <section class="features bg-dark text-muted section">
+    <section class="features bg-dark text-muted section">
 
-            <div class="container">
-                <div class="row">
-                    <header class="text-center col-md-8 col-md-offset-2">
-                        <h2 class="section-title text-white">Our Company Values</h2>
-                    </header>
+        <div class="container">
+            <div class="row">
+                <header class="text-center col-md-8 col-md-offset-2">
+                    <h2 class="section-title text-white">Our Company Values</h2>
+                </header>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row-base row">
+                <div class="col-base col-feature col-sm-6 col-md-4">
+                    <h6 class="text-white">Menjunjung Tinggi Integritas</h6>
+                </div>
+                <div class="col-base col-feature col-sm-6 col-md-4">
+                    <h6 class="text-white">Mengutamakan kualitas dan pelayanan</h6>
+                </div>
+                <div class="clearfix visible-sm"></div>
+                <div class="col-base col-feature col-sm-6 col-md-4">
+                    <h6 class="text-white">Kerja tim profesional</h6>
                 </div>
             </div>
-            <div class="container">
-                <div class="row-base row">
-                    <div class="col-base col-feature col-sm-6 col-md-4">
-                        <h6 class="text-white">Web design</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut earum ducimus minima nesciunt,
-                            aperiam sequi impedit quis accusantium</p>
-                    </div>
-                    <div class="col-base col-feature col-sm-6 col-md-4">
-                        <h6 class="text-white">Development</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut earum ducimus minima nesciunt,
-                            aperiam sequi impedit quis accusantium</p>
-                    </div>
-                    <div class="clearfix visible-sm"></div>
-                    <div class="col-base col-feature col-sm-6 col-md-4">
-                        <h6 class="text-white">Coding</h6>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut earum ducimus minima nesciunt,
-                            aperiam sequi impedit quis accusantium</p>
-                    </div>
-                </div>
-            </div>
-        </section>
+        </div>
+    </section>
 
-        {{-- <section class="clients section pb-sm">
-            <div class="container">
-                <div class="row">
-                    <header class="text-center col-md-8 col-md-offset-2">
-                        <h2 class="section-title">Clients <i>Say</i>..</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse, maxime tempora quaerat
-                            ratione iste. Nulla excepturi voluptatem error repellat tenetur facilis, veniam illum.</p>
-                    </header>
-                </div>
+    <section class="section">
+        <div class="container">
+            <div class="row">
+                <header class="text-center col-md-12 ">
+                    <h2 class="section-title">Philosophy</h2>
+                    <p style="font-size: 1.2em">Kami berkomitmen untuk menyediakan produk kelapa berkualitas tinggi
+                        kepada pelanggan kami dan memberikan layanan terbaik agar mereka mendapat kepuasaan dan
+                        kenyamanan saat menggunakan produk kami. Disamping itu kami juga memberikan feedback yang
+                        menguntungkan bagi para pemegang saham kami. Perusahaan kami sengat menjunjung tinggi ketaatan
+                        pada aturan Nasional dan Internasional terkait standarisasi pengolahan minyak kelapa dan turunan
+                        kelapa. Kami pun berfokus pada pencegahan eksploitasi/kerusakan lingkungan akibat produksi kami
+                        dan kami menemukan cara lebih baik untuk melestarikan lingkungan. Bahan baku yang kami gunakan
+                        hanya bahan baku berkualitas terbaik dan kami terus memperhatikan peningkatan kualitas produksi.
+                        Perusahaan kami menggunakan teknologi terbaru, mutakhir dan canggih.</p>
+                </header>
             </div>
-            <div class="section-content">
-                <div class="container">
-                    <div class="col-md-10 col-lg-6 col-md-offset-1 col-lg-offset-3">
-                        <div class="client-carousel-wrp">
-                            <div class="client-carousel js-client-carousel">
-                                <div class="client">
-                                    <img alt="" class="img-circle" width="100"
-                                        src="{{ asset('home') }}/img/clients/2/1.jpg">
-                                    <span class="quote">"</span>
-                                    <p class="client-text">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, a quam
-                                        quae dolore blanditiis eveniet cum amet quasi sunt nostrum, suscipit commodi
-                                        sequi sapiente deserunt dolorem iusto? Ipsa, quas ut!. Lorem ipsum dolor sit
-                                        amet, consectetur adipisicing elit.</p>
-                                    <i class="client-name">John Smith — </i>
-                                    adobe sales manager
-                                </div>
-                                <div class="client">
-                                    <img alt="" class="img-circle" width="100"
-                                        src="{{ asset('home') }}/img/clients/2/2.jpg">
-                                    <span class="quote">"</span>
-                                    <p class="client-text">
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit, a quam
-                                        quae dolore blanditiis eveniet cum amet quasi sunt nostrum, suscipit commodi
-                                        sequi sapiente deserunt dolorem iusto? Ipsa, quas ut!. Lorem ipsum dolor sit
-                                        amet, consectetur adipisicing elit.</p>
-                                    <i class="client-name">Sara Smith — </i>
-                                    adobe sales manager
-                                </div>
-                                <div class="client">
-                                    <img alt="" class="img-circle" width="100"
-                                        src="{{ asset('home') }}/img/clients/2/1.jpg">
-                                    <span class="quote">"</span>
-                                    <p class="client-text">
-                                        Do you want to be even more successful?
-                                        Learn to love learning and growth. The more effort you put into improving your
-                                        skills,
-                                        the bigger the payoff you will get. Realize that things will be hard at first,
-                                        but rewards worth it.</p>
-                                    <i class="client-name">Samanda Smith — </i>
-                                    adobe sales manager
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        </div>
+    </section>
 
-        <section class="section bg-prices masked jarallax" data-jarallax='{"speed": 0.7}'>
-            <div class="container">
-                <div class="row">
-                    <header class="text-white text-center col-md-8 col-md-offset-2">
-                        <h2 class="text-white section-title">Pricing <i>Lists</i></h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse, maxime tempora quaerat
-                            ratione iste. Nulla excepturi voluptatem error repellat.</p>
-                    </header>
+    <section class="about bgc-light-gray">
+        <div class="container">
+            <div class="row">
+                <header class="text-center col-md-12 ">
+                    <h2 class="section-title">Our Key Features</h2>
+                </header>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row-baseline row">
+                <div class="col-box col-baseline text-center col-sm-6 col-lg-3">
+                    <div class="media-body">
+                        {{-- <span class="icon icon-lightbulb"></span> --}}
+                        <h6>PRODUK BERKUALITAS TINGGI</h6>
+                        <p class="text-muted">Kami senantiasi menyediakan barang secara kuantitas dengan mengutamakan hasil produk dengan kualitas terbaik</p>
+                    </div>
                 </div>
-                <div class="section-content">
-                    <div class="row-base row">
-                        <div class="col-base col-md-4 col-sm-6">
-                            <div class="pricing">
-                                <div class="pricing-price">
-                                    <span class="h1">Free</span>
-                                </div>
-                                <h6>Starter</h6>
-                                <hr>
-                                <p>
-                                    A no-commitment plan for hobbyists and tinkerers looking to experiment with design.
-                                </p>
-                                <a class="btn btn-b-gray" href="#">Download Now</a>
-                            </div>
-                        </div>
-                        <div class="col-base col-md-4 col-sm-6">
-                            <div class="pricing">
-                                <div class="pricing-price">
-                                    <span class="pricing-dollar">$</span>
-                                    <span class="h1">29</span>
-                                </div>
-                                <h6>Starter</h6>
-                                <hr>
-                                <p>
-                                    A no-commitment plan for hobbyists and tinkerers looking to experiment with design.
-                                </p>
-                                <a class="btn btn-b-gray" href="#">Download Now</a>
-                            </div>
-                        </div>
-                        <div class="col-base col-md-4 col-sm-6">
-                            <div class="pricing">
-                                <div class="pricing-price">
-                                    <span class="pricing-dollar">$</span>
-                                    <span class="h1">49</span>
-                                </div>
-                                <h6>Starter</h6>
-                                <hr>
-                                <p>
-                                    A no-commitment plan for hobbyists and tinkerers looking to experiment with design.
-                                </p>
-                                <a class="btn btn-b-gray" href="#">Download Now</a>
-                            </div>
-                        </div>
+                <div class="col-box col-baseline text-center col-sm-6 col-lg-3">
+                    <div class="media-body">
+                        {{-- <span class="icon icon-layers"></span> --}}
+                        <h6>HARGA TERBAIK</h6>
+                        <p class="text-muted">Produk berkualitas tinggi dengan harga terjangkau dan bersaing di pasar</p>
+                    </div>
+                </div>
+                <div class="col-box col-baseline text-center col-sm-6 col-lg-3">
+                    <div class="media-body">
+                        {{-- <span class="icon icon-strategy"></span> --}}
+                        <h6>INTEGRITAS UTAMA</h6>
+                        <p class="text-muted">Kami selalu mengutamakan kepercayaan mitra dan pelanggan</p>
+                    </div>
+                </div>
+                <div class="col-box col-baseline text-center col-sm-6 col-lg-3">
+                    <div class="media-body">
+                        {{-- <span class="icon icon-tools"></span> --}}
+                        <h6>KERJASAMA TERPERCAYA</h6>
+                        <p class="text-muted">Kami membangun kerjasama jangka panjang dan saling menguntungkan dengan menyediakan pelayanan terbaik</p>
                     </div>
                 </div>
             </div>
-        </section> --}}
+        </div>
+    </section>
 
-        <section class="partners section-sm">
-            <div class="container">
-                <div class="js-partners-carousel">
-                    <div class="partner">
-                        <img alt="" src="{{ asset('home') }}/img/partners/1.png">
-                    </div>
-                    <div class="partner">
-                        <img alt="" src="{{ asset('home') }}/img/partners/2.png">
-                    </div>
-                    <div class="partner">
-                        <img alt="" src="{{ asset('home') }}/img/partners/3.png">
-                    </div>
-                    <div class="partner">
-                        <img alt="" src="{{ asset('home') }}/img/partners/4.png">
-                    </div>
-                    <div class="partner">
-                        <img alt="" src="{{ asset('home') }}/img/partners/5.png">
-                    </div>
-                </div>
-            </div>
-        </section>
 
-        <footer id="footer" class="footer bg-dark">
-            <div class="container">
-                <div class="row-base row-space row">
-                    <div class="brand-info col-base col-space col-sm-6 col-md-3">
-                        <a href="#top" class="brand js-target-scroll">
-                            Primecoconesia.
-                        </a>
-                        <p>We create web products for the help and growth of your business.</p>
-                        <address><strong class="text-white">E-mail:</strong> <a
-                                href="http://paul-themes.com/cdn-cgi/l/email-protection" class="__cf_email__"
-                                data-cfemail="503528313d203c35103528313d203c357e2225">[email&#160;protected]</a>
-                        </address>
-                    </div>
-                    <div class="col-base col-space col-sm-6 col-md-2">
-                        <strong class="footer-title">Links</strong>
-                        <ul class="nav-bottom">
-                            <li><a href="#">Home</a></li>
-                            <li><a href="#">Product</a></li>
-                            <li><a href="#">Portfolio</a></li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">Contacts</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-base col-space col-sm-6 col-md-4">
-                        <strong class="footer-title">Links</strong>
-                        <ul class="nav-bottom">
-                            <li><a href="#">Home</a></li>
-                            <li><a href="#">Product</a></li>
-                            <li><a href="#">Portfolio</a></li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">Contacts</a></li>
-                        </ul>
-                    </div>
-                    <div class="col-subscribe col-base col-space col-sm-6 col-md-3">
-                        <strong class="footer-title">Newsletter</strong>
-                        <form class="subscribe-form js-subscribe-form">
-                            <div class="input-group">
-                                <input id="mc-email" type="email" class="input-round form-control" placeholder="Email">
-                                <span class="input-group-btn">
-                                    <button class="btn" type="submit"><span class="icon-arrow-right"></span></button>
-                                </span>
-                            </div>
-                            <label class="mc-label" for="mc-email" id="mc-notification"></label>
-                        </form>
-                    </div>
+
+    <section class="partners section-sm">
+        <div class="container">
+            <div class="js-partners-carousel">
+                <div class="partner">
+                    <img alt="" src="{{ asset('home') }}/img/partners/1.png">
+                </div>
+                <div class="partner">
+                    <img alt="" src="{{ asset('home') }}/img/partners/2.png">
+                </div>
+                <div class="partner">
+                    <img alt="" src="{{ asset('home') }}/img/partners/3.png">
+                </div>
+                <div class="partner">
+                    <img alt="" src="{{ asset('home') }}/img/partners/4.png">
+                </div>
+                <div class="partner">
+                    <img alt="" src="{{ asset('home') }}/img/partners/5.png">
                 </div>
             </div>
-            <div class="footer-bottom">
-                <div class="container">
-                    <div class="copyrights">
-                        © Copyright 2021 Primecoconesia. All Rights Reserved
-                    </div>
-                    <ul class="social-list">
-                        <li><a href="#" class="fa fa-facebook"></a></li>
-                        <li><a href="#" class="fa fa-twitter"></a></li>
-                        <li><a href="#" class="fa fa-linkedin"></a></li>
-                        <li><a href="#" class="fa fa-instagram"></a></li>
+        </div>
+    </section>
+
+    <footer id="footer" class="footer bg-dark">
+        <div class="container">
+            <div class="row-base row-space row">
+                <div class="brand-info col-base col-space col-sm-6 col-md-3">
+                    <a href="#top" class="brand js-target-scroll">
+                        Primecoconesia.
+                    </a>
+                    <p>Terima kasih atas minat Anda pada produk kami.</p>
+                    <address><strong class="text-white">E-mail:</strong> <a
+                            href="http://paul-themes.com/cdn-cgi/l/email-protection" class="__cf_email__"
+                            data-cfemail="503528313d203c35103528313d203c357e2225">[email&#160;protected]</a>
+                    </address>
+                </div>
+                {{-- <div class="col-base col-space col-sm-6 col-md-2">
+                    <strong class="footer-title">Links</strong>
+                    <ul class="nav-bottom">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Product</a></li>
+                        <li><a href="#">Portfolio</a></li>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">Contacts</a></li>
                     </ul>
                 </div>
+                <div class="col-base col-space col-sm-6 col-md-4">
+                    <strong class="footer-title">Links</strong>
+                    <ul class="nav-bottom">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Product</a></li>
+                        <li><a href="#">Portfolio</a></li>
+                        <li><a href="#">Blog</a></li>
+                        <li><a href="#">Contacts</a></li>
+                    </ul>
+                </div> --}}
+                {{-- <div class="col-base col-space col-sm-6 col-md-6">
+                    <strong class="footer-title">Newsletter</strong>
+                    <form class="subscribe-form js-subscribe-form">
+                        <div class="input-group">
+                            <input id="mc-email" type="email" class="input-round form-control" placeholder="Email">
+                            <span class="input-group-btn">
+                                <button class="btn" type="submit"><span class="icon-arrow-right"></span></button>
+                            </span>
+                        </div>
+                        <label class="mc-label" for="mc-email" id="mc-notification"></label>
+                    </form>
+                </div> --}}
             </div>
-        </footer>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="copyrights">
+                    © Copyright 2021 Primecoconesia. All Rights Reserved
+                </div>
+                <ul class="social-list">
+                    <li><a href="#" class="fa fa-facebook"></a></li>
+                    <li><a href="#" class="fa fa-twitter"></a></li>
+                    <li><a href="#" class="fa fa-linkedin"></a></li>
+                    <li><a href="#" class="fa fa-instagram"></a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
     </div>
 
     <div id="request" class="modal fade" role="dialog">
