@@ -43,106 +43,18 @@
 
             <nav class="nav-desctop hidden-xs hidden-sm">
                 <ul class="nav-desctop-list">
-                    <li class="active">
-                        <a href="home-agency.html">Home</a>
-                        <ul>
-                            <li class="active"><a href="home-agency.html">Agency</a></li>
-                            <li><a href="home-business.html">Business</a></li>
-                            <li><a href="home-corporate.html">Corporate</a></li>
-                            <li><a href="home-startup.html">Startup</a></li>
-                            <li><a href="home-creative.html">Creative</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="#">Product</a>
-                        <ul>
-                            <li>
-                                <a href="about.html">About</a>
-                                <ul>
-                                    <li><a href="about.html">About 1</a></li>
-                                    <li><a href="about2.html">About 2</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="services.html">Services</a></li>
-                            <li><a href="comming-soon.html">Comming-soon</a></li>
-                            <li><a href="404.html">404</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="blog-list1.html">Gallery</a>
-                        <ul>
-                            <li>
-                                <a href="blog-list1.html">Blog list</a>
-                                <ul>
-                                    <li><a href="blog-list1.html">Blog list</a></li>
-                                    <li><a href="blog-list2.html">Blog list 2</a></li>
-                                    <li><a href="blog-list-sidebar.html">Blog list sidebar</a></li>
-                                    <li><a href="blog-list-sidebar2.html">Blog list sidebar 2</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="blog-post.html">Blog details</a></li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="contacts.html">Contacts</a>
-                        <ul>
-                            <li><a href="contacts.html">Contacts 1</a></li>
-                            <li><a href="contacts2.html">Contacts 2</a></li>
-                        </ul>
-                    </li>
+                    <li class="active"><a href="{{ route('home') }}">Home</a></li>
+                    <li><a href="{{ route('about') }}">About</a></li>
+                    <li><a href="#">Contact</a></li>
                 </ul>
             </nav>
 
             <nav class="nav-mobile hidden-md hidden-lg">
                 <div class="collapse navbar-collapse" id="nav-collapse">
                     <ul class="nav-mobile-list">
-                        <li class="active">
-                            <a href="home-agency.html">Home</a>
-                            <ul>
-                                <li class="active"><a href="home-agency.html">Agency</a></li>
-                                <li><a href="home-business.html">Business</a></li>
-                                <li><a href="home-corporate.html">Corporate</a></li>
-                                <li><a href="home-startup.html">Startup</a></li>
-                                <li><a href="home-creative.html">Creative</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="#">Product</a>
-                            <ul>
-                                <li>
-                                    <a href="about.html">About</a>
-                                    <ul>
-                                        <li><a href="about.html">About 1</a></li>
-                                        <li><a href="about2.html">About 2</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="services.html">Services</a></li>
-                                <li><a href="comming-soon.html">Comming-soon</a></li>
-                                <li><a href="404.html">404</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="blog-list1.html">Gallery</a>
-                            <ul>
-                                <li>
-                                    <a href="blog-list1.html">Blog list</a>
-                                    <ul>
-                                        <li><a href="blog-list1.html">Blog list</a></li>
-                                        <li><a href="blog-list2.html">Blog list 2</a></li>
-                                        <li><a href="blog-list-sidebar.html">Blog list sidebar</a></li>
-                                        <li><a href="blog-list-sidebar2.html">Blog list sidebar 2</a></li>
-                                    </ul>
-                                </li>
-                                <li><a href="blog-post.html">Blog details</a></li>
-                            </ul>
-                        </li>
-                        <li>
-                            <a href="contacts.html">Contacts</a>
-                            <ul>
-                                <li><a href="contacts.html">Contacts 1</a></li>
-                                <li><a href="contacts2.html">Contacts 2</a></li>
-                            </ul>
-                        </li>
+                        <li class="active"><a href="{{ route('home') }}">Home</a></li>
+                        <li><a href="{{ route('about') }}">About</a></li>
+                        <li><a href="#">Contact</a></li>
                     </ul>
                 </div>
             </nav>
