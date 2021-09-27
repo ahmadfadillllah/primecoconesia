@@ -237,13 +237,13 @@
                                 <div class="blog-thumbnail">
                                     <a href="#">
                                         <div class="blog-thumbnail-img"><img alt="" class="img-responsive"
-                                                src="{{ asset('home') }}/img/portfolio/1-360x240.jpg"></div>
+                                                src="{{ asset('home') }}/img/product/product1.jpg"></div>
                                     </a>
                                 </div>
                                 <div class="blog-info">
-                                    <a href="#" class="blog-rubric">design</a>
+                                    <a href="#" class="blog-rubric">1</a>
                                     <h3 class="blog-title">
-                                        <a href="#">Primecoconesia Website</a>
+                                        <a href="#">Minyak Kelapa Murni</a>
                                     </h3>
                                 </div>
                             </article>
@@ -253,13 +253,13 @@
                                 <div class="blog-thumbnail">
                                     <a href="#">
                                         <div class="blog-thumbnail-img"><img alt="" class="img-responsive"
-                                                src="{{ asset('home') }}/img/portfolio/2-360x240.jpg"></div>
+                                                src="{{ asset('home') }}/img/product/product2.jpg"></div>
                                     </a>
                                 </div>
                                 <div class="blog-info">
-                                    <a href="#" class="blog-rubric">Stationary</a>
+                                    <a href="#" class="blog-rubric">2</a>
                                     <h3 class="blog-title">
-                                        <a href="#">Romeo</a>
+                                        <a href="#">Minyak Kelapa Biasa</a>
                                     </h3>
                                 </div>
                             </article>
@@ -269,13 +269,13 @@
                                 <div class="blog-thumbnail">
                                     <a href="#">
                                         <div class="blog-thumbnail-img"><img alt="" class="img-responsive"
-                                                src="{{ asset('home') }}/img/portfolio/3-360x240.jpg"></div>
+                                                src="{{ asset('home') }}/img/product/product3.jpg"></div>
                                     </a>
                                 </div>
                                 <div class="blog-info">
-                                    <a href="#" class="blog-rubric">design</a>
+                                    <a href="#" class="blog-rubric">3</a>
                                     <h3 class="blog-title">
-                                        <a href="#">Primecoconesia Website</a>
+                                        <a href="#">Kapuk</a>
                                     </h3>
                                 </div>
                             </article>
@@ -285,13 +285,13 @@
                                 <div class="blog-thumbnail">
                                     <a href="#">
                                         <div class="blog-thumbnail-img"><img alt="" class="img-responsive"
-                                                src="{{ asset('home') }}/img/portfolio/4-360x240.jpg"></div>
+                                                src="{{ asset('home') }}/img/product/product4.jpg"></div>
                                     </a>
                                 </div>
                                 <div class="blog-info">
-                                    <a href="#" class="blog-rubric">design</a>
+                                    <a href="#" class="blog-rubric">4</a>
                                     <h3 class="blog-title">
-                                        <a href="#">Primecoconesia Website</a>
+                                        <a href="#">Cocopeat</a>
                                     </h3>
                                 </div>
                             </article>
@@ -301,13 +301,13 @@
                                 <div class="blog-thumbnail">
                                     <a href="#">
                                         <div class="blog-thumbnail-img"><img alt="" class="img-responsive"
-                                                src="{{ asset('home') }}/img/portfolio/5-360x240.jpg"></div>
+                                                src="{{ asset('home') }}/img/product/product5.jpg"></div>
                                     </a>
                                 </div>
                                 <div class="blog-info">
-                                    <a href="#" class="blog-rubric">Stationary</a>
+                                    <a href="#" class="blog-rubric">5</a>
                                     <h3 class="blog-title">
-                                        <a href="#">Romeo</a>
+                                        <a href="#">Cocomesh atau Coconet</a>
                                     </h3>
                                 </div>
                             </article>
@@ -317,13 +317,61 @@
                                 <div class="blog-thumbnail">
                                     <a href="#">
                                         <div class="blog-thumbnail-img"><img alt="" class="img-responsive"
-                                                src="{{ asset('home') }}/img/portfolio/6-360x240.jpg"></div>
+                                                src="{{ asset('home') }}/img/product/product6.jpg"></div>
                                     </a>
                                 </div>
                                 <div class="blog-info">
-                                    <a href="#" class="blog-rubric">design</a>
+                                    <a href="#" class="blog-rubric">6</a>
                                     <h3 class="blog-title">
-                                        <a href="#">Primecoconesia Website</a>
+                                        <a href="#">Coco Rope</a>
+                                    </h3>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-blog col-blog-home col-base col-sm-6 col-md-4">
+                            <article class="blog">
+                                <div class="blog-thumbnail">
+                                    <a href="#">
+                                        <div class="blog-thumbnail-img"><img alt="" class="img-responsive"
+                                                src="{{ asset('home') }}/img/product/product7.jpg"></div>
+                                    </a>
+                                </div>
+                                <div class="blog-info">
+                                    <a href="#" class="blog-rubric">7</a>
+                                    <h3 class="blog-title">
+                                        <a href="#">Briket Arang Kelapa</a>
+                                    </h3>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-blog col-blog-home col-base col-sm-6 col-md-4">
+                            <article class="blog">
+                                <div class="blog-thumbnail">
+                                    <a href="#">
+                                        <div class="blog-thumbnail-img"><img alt="" class="img-responsive"
+                                                src="{{ asset('home') }}/img/product/product8.jpg"></div>
+                                    </a>
+                                </div>
+                                <div class="blog-info">
+                                    <a href="#" class="blog-rubric">8</a>
+                                    <h3 class="blog-title">
+                                        <a href="#">Sapu Lidi</a>
+                                    </h3>
+                                </div>
+                            </article>
+                        </div>
+                        <div class="col-blog col-blog-home col-base col-sm-6 col-md-4">
+                            <article class="blog">
+                                <div class="blog-thumbnail">
+                                    <a href="#">
+                                        <div class="blog-thumbnail-img"><img alt="" class="img-responsive"
+                                                src="{{ asset('home') }}/img/product/product9.jpg"></div>
+                                    </a>
+                                </div>
+                                <div class="blog-info">
+                                    <a href="#" class="blog-rubric">9</a>
+                                    <h3 class="blog-title">
+                                        <a href="#">Gelagah / Buluh</a>
                                     </h3>
                                 </div>
                             </article>
