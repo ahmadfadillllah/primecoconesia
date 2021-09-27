@@ -498,49 +498,52 @@
         </div>
     </section>
 
-    <section class="about bgc-light-gray">
+    <section class="features section  bg-light">
         <div class="container">
-            <div class="row">
-                <header class="text-center col-md-12 ">
-                    <h2 class="section-title">Our Key Features</h2>
-                </header>
-            </div>
-        </div>
-        <div class="container">
-            <div class="row-baseline row">
-                <div class="col-box col-baseline text-center col-sm-6 col-lg-3">
-                    <div class="media-body">
-                        {{-- <span class="icon icon-lightbulb"></span> --}}
-                        <h6>PRODUK BERKUALITAS TINGGI</h6>
-                        <p class="text-muted">Kami senantiasi menyediakan barang secara kuantitas dengan mengutamakan hasil produk dengan kualitas terbaik</p>
+            <header class="text-center col-md-12 ">
+                <h2 class="section-title">Our Key Features</h2>
+            </header>
+            <div class="row-base row">
+                <div class="col-base col-feature col-sm-6 col-md-4">
+                    <div class="media-left"><i class="icon text-primary icon-new-tab"></i></div>
+                    <div class="media-right">
+                        <h5>PRODUK BERKUALITAS TINGGI</h5>
+                        <p>Kami senantiasi menyediakan barang secara kuantitas dengan mengutamakan
+                            hasil produk dengan kualitas terbaik</p>
                     </div>
                 </div>
-                <div class="col-box col-baseline text-center col-sm-6 col-lg-3">
-                    <div class="media-body">
-                        {{-- <span class="icon icon-layers"></span> --}}
-                        <h6>HARGA TERBAIK</h6>
-                        <p class="text-muted">Produk berkualitas tinggi dengan harga terjangkau dan bersaing di pasar</p>
+                <div class="col-base col-feature col-sm-6 col-md-4">
+                    <div class="media-left"><i class="icon text-primary icon-tag"></i></div>
+                    <div class="media-right">
+                        <h5>HARGA TERBAIK</h5>
+                        <p>Produk berkualitas tinggi dengan harga terjangkau dan bersaing di pasar</p>
                     </div>
                 </div>
-                <div class="col-box col-baseline text-center col-sm-6 col-lg-3">
-                    <div class="media-body">
-                        {{-- <span class="icon icon-strategy"></span> --}}
-                        <h6>INTEGRITAS UTAMA</h6>
-                        <p class="text-muted">Kami selalu mengutamakan kepercayaan mitra dan pelanggan</p>
+                <div class="col-base col-feature col-sm-6 col-md-4">
+                    <div class="media-left"><i class="icon text-primary icon-users2"></i></div>
+                    <div class="media-right">
+                        <h5>INTEGRITAS UTAMA</h5>
+                        <p>Kami selalu mengutamakan kepercayaan mitra dan pelanggan</p>
                     </div>
                 </div>
-                <div class="col-box col-baseline text-center col-sm-6 col-lg-3">
-                    <div class="media-body">
-                        {{-- <span class="icon icon-tools"></span> --}}
-                        <h6>KERJASAMA TERPERCAYA</h6>
-                        <p class="text-muted">Kami membangun kerjasama jangka panjang dan saling menguntungkan dengan menyediakan pelayanan terbaik</p>
+                <div class="col-base col-feature col-sm-6 col-md-4">
+                    <div class="media-left"><i class="icon text-primary icon-group-work"></i></div>
+                    <div class="media-right">
+                        <h5>KERJASAMA TERPERCAYA</h5>
+                        <p>Kami membangun kerjasama jangka panjang dan saling menguntungkan dengan
+                            menyediakan pelayanan terbaik</p>
+                    </div>
+                </div>
+                <div class="clearfix visible-sm"></div>
+                <div class="col-base col-feature col-sm-6 col-md-4">
+
+                    <div class="media-right">
+
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
-
 
     <section class="partners section-sm">
         <div class="container">
