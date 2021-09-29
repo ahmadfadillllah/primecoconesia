@@ -205,7 +205,7 @@
         </div>
     </main>
     <div class="content">
-        <section class="section">
+        <section class="section" style="background-image: url('{{ asset('home/img/bg/Web 1920 – 2.jpg') }}')">
             <div class="container">
                 <div class="row">
                     <header class="text-center col-md-8 col-md-offset-2">
@@ -269,45 +269,13 @@
                                 <div class="blog-thumbnail">
                                     <a href="#">
                                         <div class="blog-thumbnail-img"><img alt="" class="img-responsive"
-                                                src="{{ asset('home') }}/img/product/product3.jpg"></div>
+                                                src="{{ asset('home') }}/img/product/product4.jpg"></div>
                                     </a>
                                 </div>
                                 <div class="blog-info">
                                     <a href="#" class="blog-rubric">3</a>
                                     <h3 class="blog-title">
-                                        <a href="#">Kapuk</a>
-                                    </h3>
-                                </div>
-                            </article>
-                        </div>
-                        <div class="col-blog col-blog-home col-base col-sm-6 col-md-4">
-                            <article class="blog">
-                                <div class="blog-thumbnail">
-                                    <a href="#">
-                                        <div class="blog-thumbnail-img"><img alt="" class="img-responsive"
-                                                src="{{ asset('home') }}/img/product/product4.jpg"></div>
-                                    </a>
-                                </div>
-                                <div class="blog-info">
-                                    <a href="#" class="blog-rubric">4</a>
-                                    <h3 class="blog-title">
                                         <a href="#">Cocopeat</a>
-                                    </h3>
-                                </div>
-                            </article>
-                        </div>
-                        <div class="col-blog col-blog-home col-base col-sm-6 col-md-4">
-                            <article class="blog">
-                                <div class="blog-thumbnail">
-                                    <a href="#">
-                                        <div class="blog-thumbnail-img"><img alt="" class="img-responsive"
-                                                src="{{ asset('home') }}/img/product/product5.jpg"></div>
-                                    </a>
-                                </div>
-                                <div class="blog-info">
-                                    <a href="#" class="blog-rubric">5</a>
-                                    <h3 class="blog-title">
-                                        <a href="#">Cocomesh atau Coconet</a>
                                     </h3>
                                 </div>
                             </article>
@@ -321,7 +289,7 @@
                                     </a>
                                 </div>
                                 <div class="blog-info">
-                                    <a href="#" class="blog-rubric">6</a>
+                                    <a href="#" class="blog-rubric">4</a>
                                     <h3 class="blog-title">
                                         <a href="#">Coco Rope</a>
                                     </h3>
@@ -337,7 +305,7 @@
                                     </a>
                                 </div>
                                 <div class="blog-info">
-                                    <a href="#" class="blog-rubric">7</a>
+                                    <a href="#" class="blog-rubric">5</a>
                                     <h3 class="blog-title">
                                         <a href="#">Briket Arang Kelapa</a>
                                     </h3>
@@ -353,25 +321,9 @@
                                     </a>
                                 </div>
                                 <div class="blog-info">
-                                    <a href="#" class="blog-rubric">8</a>
+                                    <a href="#" class="blog-rubric">6</a>
                                     <h3 class="blog-title">
                                         <a href="#">Sapu Lidi</a>
-                                    </h3>
-                                </div>
-                            </article>
-                        </div>
-                        <div class="col-blog col-blog-home col-base col-sm-6 col-md-4">
-                            <article class="blog">
-                                <div class="blog-thumbnail">
-                                    <a href="#">
-                                        <div class="blog-thumbnail-img"><img alt="" class="img-responsive"
-                                                src="{{ asset('home') }}/img/product/product9.jpg"></div>
-                                    </a>
-                                </div>
-                                <div class="blog-info">
-                                    <a href="#" class="blog-rubric">9</a>
-                                    <h3 class="blog-title">
-                                        <a href="#">Gelagah / Buluh</a>
                                     </h3>
                                 </div>
                             </article>
@@ -479,7 +431,7 @@
         </div>
     </section>
 
-    <section class="section">
+    <section class="section" style="background-image: url('{{ asset('home/img/bg/Web 1920 – 1.jpg') }}')">
         <div class="container">
             <div class="row">
                 <header class="text-center col-md-12 ">
@@ -504,41 +456,35 @@
                 <h2 class="section-title">Our Key Features</h2>
             </header>
             <div class="row-base row">
-                <div class="col-base col-feature col-sm-6 col-md-4">
+                <div class="col-base col-feature col-sm-6 col-md-3">
                     <div class="media-left"><i class="icon text-primary icon-new-tab"></i></div>
                     <div class="media-right">
-                        <h5>PRODUK BERKUALITAS TINGGI</h5>
-                        <p>Kami senantiasi menyediakan barang secara kuantitas dengan mengutamakan
+                        <h6>PRODUK BERKUALITAS TINGGI</h6>
+                        <p style="font-size: 14px">Kami senantiasi menyediakan barang secara kuantitas dengan mengutamakan
                             hasil produk dengan kualitas terbaik</p>
                     </div>
                 </div>
-                <div class="col-base col-feature col-sm-6 col-md-4">
-                    <div class="media-left"><i class="icon text-primary icon-tag"></i></div>
-                    <div class="media-right">
-                        <h5>HARGA TERBAIK</h5>
-                        <p>Produk berkualitas tinggi dengan harga terjangkau dan bersaing di pasar</p>
-                    </div>
-                </div>
-                <div class="col-base col-feature col-sm-6 col-md-4">
+                <div class="col-base col-feature col-sm-6 col-md-3">
                     <div class="media-left"><i class="icon text-primary icon-users2"></i></div>
                     <div class="media-right">
-                        <h5>INTEGRITAS UTAMA</h5>
-                        <p>Kami selalu mengutamakan kepercayaan mitra dan pelanggan</p>
+                        <h6>INTEGRITAS UTAMA</h6>
+                        <p style="font-size: 14px">Kami selalu mengutamakan kepercayaan mitra dan pelanggan</p>
                     </div>
                 </div>
-                <div class="col-base col-feature col-sm-6 col-md-4">
+                <div class="col-base col-feature col-sm-6 col-md-3">
+                    <div class="media-left">
+                        <i class="icon text-primary icon-tag"></i></div>
+                    <div class="media-right">
+                        <h6>HARGA TERBAIK</h6>
+                        <p style="font-size: 14px">Produk berkualitas tinggi dengan harga terjangkau dan bersaing di pasar</p>
+                    </div>
+                </div>
+                <div class="col-base col-feature col-sm-6 col-md-3">
                     <div class="media-left"><i class="icon text-primary icon-group-work"></i></div>
                     <div class="media-right">
-                        <h5>KERJASAMA TERPERCAYA</h5>
-                        <p>Kami membangun kerjasama jangka panjang dan saling menguntungkan dengan
+                        <h6>KERJASAMA TERPERCAYA</h6>
+                        <p style="font-size: 14px">Kami membangun kerjasama jangka panjang dan saling menguntungkan dengan
                             menyediakan pelayanan terbaik</p>
-                    </div>
-                </div>
-                <div class="clearfix visible-sm"></div>
-                <div class="col-base col-feature col-sm-6 col-md-4">
-
-                    <div class="media-right">
-
                     </div>
                 </div>
             </div>
