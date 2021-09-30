@@ -152,7 +152,7 @@
                             data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;"
                             data-mask_in="x:50px;y:0px;s:inherit;e:inherit;"
                             data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="500"
-                            data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05">Creative
+                            data-splitout="none" data-responsive_offset="on" data-elementdelay="0.05">
                             <i>Primecoconesia</i>
                         </div>
 
@@ -205,7 +205,7 @@
         </div>
     </main>
     <div class="content">
-        <section class="section" style="background-image: url('{{ asset('home/img/bg/Web 1920 – 2.jpg') }}')">
+        <section class="section" style="background-image: url('{{ asset('home/img/bg/Test Baru.jpg') }}')">
             <div class="container">
                 <div class="row">
                     <header class="text-center col-md-8 col-md-offset-2">
@@ -333,79 +333,6 @@
             </div>
         </section>
 
-        {{-- <section class="team bg-light">
-            <div class="clearfix">
-                <div class="col-team col-sm-6 col-lg-3">
-                    <figure class="team-profile">
-                        <img alt="" src="{{ asset('home') }}/img/team/2/1-370x420.jpg">
-        <figcaption class="team-caption">
-            <div class="team-meta">
-                <strong class="team-name">Jack Wilshere</strong>
-                <span class="team-spec">CEO / Founder</span>
-            </div>
-            <ul class="team-social social-list">
-                <li><a href="#" class="fa fa-facebook"></a></li>
-                <li><a href="#" class="fa fa-twitter"></a></li>
-                <li><a href="#" class="fa fa-linkedin"></a></li>
-                <li><a href="#" class="fa fa-instagram"></a></li>
-            </ul>
-        </figcaption>
-        </figure>
-    </div>
-    <div class="col-team  col-sm-6 col-lg-3">
-        <figure class="team-profile">
-            <img alt="" src="{{ asset('home') }}/img/team/2/2-370x420.jpg">
-            <figcaption class="team-caption">
-                <div class="team-meta">
-                    <strong class="team-name">Jack Wilshere</strong>
-                    <span class="team-spec">CEO / Founder</span>
-                </div>
-                <ul class="team-social social-list">
-                    <li><a href="#" class="fa fa-facebook"></a></li>
-                    <li><a href="#" class="fa fa-twitter"></a></li>
-                    <li><a href="#" class="fa fa-linkedin"></a></li>
-                    <li><a href="#" class="fa fa-instagram"></a></li>
-                </ul>
-            </figcaption>
-        </figure>
-    </div>
-    <div class="col-team col-sm-6 col-lg-3">
-        <figure class="team-profile">
-            <img alt="" src="{{ asset('home') }}/img/team/2/3-370x420.jpg">
-            <figcaption class="team-caption">
-                <div class="team-meta">
-                    <strong class="team-name">Jack Wilshere</strong>
-                    <span class="team-spec">CEO / Founder</span>
-                </div>
-                <ul class="team-social social-list">
-                    <li><a href="#" class="fa fa-facebook"></a></li>
-                    <li><a href="#" class="fa fa-twitter"></a></li>
-                    <li><a href="#" class="fa fa-linkedin"></a></li>
-                    <li><a href="#" class="fa fa-instagram"></a></li>
-                </ul>
-            </figcaption>
-        </figure>
-    </div>
-    <div class="col-team col-sm-6 col-lg-3">
-        <figure class="team-profile">
-            <img alt="" src="{{ asset('home') }}/img/team/2/4-370x420.jpg">
-            <figcaption class="team-caption">
-                <div class="team-meta">
-                    <strong class="team-name">Jack Wilshere</strong>
-                    <span class="team-spec">CEO / Founder</span>
-                </div>
-                <ul class="team-social social-list">
-                    <li><a href="#" class="fa fa-facebook"></a></li>
-                    <li><a href="#" class="fa fa-twitter"></a></li>
-                    <li><a href="#" class="fa fa-linkedin"></a></li>
-                    <li><a href="#" class="fa fa-instagram"></a></li>
-                </ul>
-            </figcaption>
-        </figure>
-    </div>
-    </div>
-    </section> --}}
-
     <section class="features bg-dark text-muted section">
 
         <div class="container">
@@ -431,7 +358,7 @@
         </div>
     </section>
 
-    <section class="section" style="background-image: url('{{ asset('home/img/bg/Web 1920 – 1.jpg') }}')">
+    <section class="section" style="background-image: url('{{ asset('home/img/bg/Test Baru.jpg') }}')">
         <div class="container">
             <div class="row">
                 <header class="text-center col-md-12 ">
